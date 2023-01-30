@@ -85,6 +85,7 @@ int main()
             <Code code={text} language={lang}/>
             
         </div>
+        
         </div>
     </div>
   )
